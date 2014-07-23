@@ -1,0 +1,8 @@
+{
+    "websiteName": "{WEBSITENAME}",
+    "websitePushID": "{PUSHID}",
+    "allowedDomains": [{ALLOWEDDOMAINS}],
+    "urlFormatString": "{URLFORMAT}",
+    "authenticationToken": "{AUTHTOKEN}",
+    "webServiceURL": "{WEBSERVICEURL}"
+}
